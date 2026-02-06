@@ -19,3 +19,4 @@ https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/Clash
 https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/Clash/Vercel/Vercel.yaml
 https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/Clash/WIX/WIX.yaml
 https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/Clash/Stackexchange/Stackexchange.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/QuantumultX/Amazon/Amazon.list
