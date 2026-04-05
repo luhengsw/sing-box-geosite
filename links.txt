@@ -26,3 +26,4 @@ https://raw.githubusercontent.com/Accademia/Additional_Rule_For_Clash/37770dd548
 https://raw.githubusercontent.com/Accademia/Additional_Rule_For_Clash/37770dd548cf344819a60013279d984de0be47f0/VirtualFinance/Paypal.yaml
 https://raw.githubusercontent.com/Accademia/Additional_Rule_For_Clash/37770dd548cf344819a60013279d984de0be47f0/VirtualFinance/Revolut.yaml
 https://raw.githubusercontent.com/Accademia/Additional_Rule_For_Clash/37770dd548cf344819a60013279d984de0be47f0/VirtualFinance/Monzo.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Nintendo/Nintendo.yaml
